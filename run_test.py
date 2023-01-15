@@ -133,3 +133,4 @@ if __name__ == '__main__':
                 break
     env.close()
     env.venv.close()
+    return(0)
