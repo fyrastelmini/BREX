@@ -133,4 +133,4 @@ if __name__ == '__main__':
                 break
     env.close()
     env.venv.close()
-    break
+    virtual_display.stop()
